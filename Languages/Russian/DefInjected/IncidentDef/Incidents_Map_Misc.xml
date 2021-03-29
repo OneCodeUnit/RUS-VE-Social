@@ -1,18 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
-
-  <!-- =========================== Good ============================-->
-
-  <IncidentDef>
-    <defName>VSIE_OneNightStand</defName>
-    <label>One night stand</label>
-    <letterDef>PositiveEvent</letterDef>
-    <category>Misc</category>
-    <targetTags>
-      <li>Map_PlayerHome</li>
-    </targetTags>
-    <workerClass>VanillaSocialInteractionsExpanded.IncidentWorker_OneNightStand</workerClass>
-    <baseChance>0.01</baseChance>
-  </IncidentDef>
-  
-</Defs>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: One night stand -->
+  <VSIE_OneNightStand.label>На одну ночь</VSIE_OneNightStand.label>
+</LanguageData>
