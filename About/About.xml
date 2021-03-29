@@ -9,7 +9,7 @@
     <li>
 			<packageId>VanillaExpanded.VanillaSocialInteractionsExpanded</packageId>
 			<displayName>Vanilla Social Interactions Expanded</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=</steamWorkshopUrl>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2439736083</steamWorkshopUrl>
 		</li>
 	</modDependencies>
 	<packageId>RU.VanillaSocialInteractionsExpanded</packageId>
@@ -18,6 +18,6 @@
 		<li>Ludeon.RimWorld</li>
 		<li>Ludeon.RimWorld.Royalty</li>
 		<li>brrainz.harmony</li>
-    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+    <li>VanillaExpanded.VanillaSocialInteractionsExpanded</li>
 	</loadAfter>
 </ModMetaData>
