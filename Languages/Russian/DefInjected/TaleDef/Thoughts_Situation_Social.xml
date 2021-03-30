@@ -1,14 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-	<TaleDef Name="VSIE_SocialTaleBase" Abstract="True">
-		<type>Expirable</type>
-		<usableForArt>false</usableForArt>
-		<maxPerPawn>1</maxPerPawn>
-		<expireDays>200</expireDays>
-		<colonistOnly>False</colonistOnly>
-	</TaleDef>
-
 	<TaleDef ParentName="VSIE_SocialTaleBase">
 		<defName>VSIE_BondedPetButchered</defName>
 		<label>bonded pet butchered</label>

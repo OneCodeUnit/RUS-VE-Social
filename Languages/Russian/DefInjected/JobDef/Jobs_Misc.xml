@@ -1,103 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
-	<JobDef>
-		<defName>VSIE_VentToFriend</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_VentToFriend</driverClass>
-		<reportString>venting to TargetA.</reportString>
-		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
-	</JobDef>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: venting to TargetA. -->
+  <VSIE_VentToFriend.reportString>обращается к TargetA.</VSIE_VentToFriend.reportString>
+  
+  <!-- EN: hearing venting from TargetA. -->
+  <VSIE_StandAndHearVenting.reportString>выслушивает TargetA.</VSIE_StandAndHearVenting.reportString>
 
-	<JobDef>
-		<defName>VSIE_StandAndHearVenting</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_StandAndHearVenting</driverClass>
-		<reportString>hearing venting from TargetA.</reportString>
-	</JobDef>
+  <!-- EN: taking TargetA. -->
+  <VSIE_TakingBeer.reportString>берёт TargetA.</VSIE_TakingBeer.reportString>
 
-	<JobDef>
-		<defName>VSIE_TakingBeer</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_TakeBeerToCell</driverClass>
-		<reportString>taking TargetA.</reportString>
-	</JobDef>
+  <!-- EN: talking to TargetA. -->
+  <VSIE_TalkToSecondPawn.reportString>рассказывает TargetA.</VSIE_TalkToSecondPawn.reportString>
 
-	<JobDef>
-		<defName>VSIE_TalkToSecondPawn</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_TalkToSecondPawn</driverClass>
-		<reportString>talking to TargetA.</reportString>
-	</JobDef>
+  <!-- EN: honoring TargetA. -->
+  <VSIE_HonorPawn.reportString>чтит память TargetA.</VSIE_HonorPawn.reportString>
 
-	<JobDef>
-		<defName>VSIE_HonorPawn</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_StandSilentlyFaceTarget</driverClass>
-		<reportString>honoring TargetA.</reportString>
-	</JobDef>
+  <!-- EN: skygazing with TargetB. -->
+  <VSIE_Skygaze.reportString>любуется небом с TargetB.</VSIE_Skygaze.reportString>
 
-	<JobDef>
-		<defName>VSIE_Skygaze</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_SkygazeTalking</driverClass>
-		<reportString>skygazing with TargetB.</reportString>
-		<joyDuration>4000</joyDuration>
-		<joyKind>Meditative</joyKind>
-	</JobDef>
+  <!-- EN: viewing art with TargetB. -->
+  <VSIE_ViewArtTogether.reportString>любуется искусством с TargetB.</VSIE_ViewArtTogether.reportString>
 
-	<JobDef>
-		<defName>VSIE_ViewArtTogether</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_ViewArtTogether</driverClass>
-		<reportString>viewing art with TargetB.</reportString>
-		<joyDuration>4000</joyDuration>
-		<joyKind>Meditative</joyKind>
-	</JobDef>
+  <!-- EN: building snowman with TargetB. -->
+  <VSIE_BuildSnowmanTogether.reportString>лепит снеговика с TargetB.</VSIE_BuildSnowmanTogether.reportString>
 
-	<JobDef>
-		<defName>VSIE_BuildSnowmanTogether</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_BuildSnowmanTogether</driverClass>
-		<reportString>building snowman with TargetB.</reportString>
-		<joyDuration>8000</joyDuration>
-		<joyKind>Meditative</joyKind>
-		<taleOnCompletion>BuiltSnowman</taleOnCompletion>
-	</JobDef>
+  <!-- EN: walking with TargetB. -->
+  <VSIE_GotoWith.reportString>гуляет с TargetB.</VSIE_GotoWith.reportString>
 
-	<JobDef>
-		<defName>VSIE_GotoWith</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_GotoTalking</driverClass>
-		<reportString>walking with TargetB.</reportString>
-		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
-	</JobDef>
+  <!-- EN: talking to TargetA. -->
+  <VSIE_GotoTalkToSecondPawn.reportString>рассказывает TargetA.</VSIE_GotoTalkToSecondPawn.reportString>
 
-	<JobDef>
-		<defName>VSIE_GotoTalkToSecondPawn</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_GoToTalkToSecondPawn</driverClass>
-		<reportString>talking to Target.</reportString>
-		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
-	</JobDef>
+  <!-- EN: walking with TargetA. -->
+  <VSIE_Follow.reportString>гуляет с TargetA.</VSIE_Follow.reportString>
 
-	<JobDef>
-		<defName>VSIE_Follow</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_FollowTalking</driverClass>
-		<reportString>walking with TargetA.</reportString>
-		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
-	</JobDef>
+  <!-- EN: lovin'. -->
+  <VSIE_OneStandLovin.reportString>предаётся утехам.</VSIE_OneStandLovin.reportString>
 
-	<JobDef>
-		<defName>VSIE_OneStandLovin</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_LovinOneNightStand</driverClass>
-		<reportString>lovin'.</reportString>
-		<casualInterruptible>false</casualInterruptible>
-	</JobDef>
+  <!-- EN: watching television. -->
+  <VSIE_WatchTelevisionTogether.reportString>смотрит телевизор.</VSIE_WatchTelevisionTogether.reportString>
 
-	<JobDef>
-		<defName>VSIE_WatchTelevisionTogether</defName>
-		<driverClass>JobDriver_WatchTelevision</driverClass>
-		<reportString>watching television.</reportString>
-		<joyDuration>4000</joyDuration>
-		<joyMaxParticipants>8</joyMaxParticipants>
-		<joyKind>Television</joyKind>
-		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
-	</JobDef>
-
-	<JobDef>
-		<defName>VSIE_HaveMealTogether</defName>
-		<driverClass>VanillaSocialInteractionsExpanded.JobDriver_HaveMealTogether</driverClass>
-		<reportString>dating.</reportString>
-		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
-	</JobDef>
-</Defs>
+  <!-- EN: dating. -->
+  <VSIE_HaveMealTogether.reportString>на свидании.</VSIE_HaveMealTogether.reportString>
+</LanguageData>
