@@ -20,18 +20,4 @@
     <reflexive>true</reflexive>
     <generationChanceFactor>1.0</generationChanceFactor>
   </PawnRelationDef>
- 
-  
-    <ThoughtDef>
-    <defName>VSIE_OpinionOfMyBestFriend</defName>
-    <thoughtClass>VanillaSocialInteractionsExpanded.Thought_OpinionOfMyBestFriend</thoughtClass>
-    <workerClass>VanillaSocialInteractionsExpanded.ThoughtWorker_OpinionOfMyBestFriend</workerClass>
-    <validWhileDespawned>true</validWhileDespawned>
-    <stages>
-      <li>
-        <label>opinion of my {0} {1}</label>
-        <description>Being with my best friend makes me feel this way.</description>
-      </li>
-    </stages>
-  </ThoughtDef>
 </Defs>

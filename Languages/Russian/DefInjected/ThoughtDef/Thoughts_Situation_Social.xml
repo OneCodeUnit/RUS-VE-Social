@@ -1,15 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
-	<TaleDef Name="VSIE_SocialTaleBase" Abstract="True">
-		<type>Expirable</type>
-		<usableForArt>false</usableForArt>
-		<maxPerPawn>1</maxPerPawn>
-		<expireDays>200</expireDays>
-		<colonistOnly>False</colonistOnly>
-	</TaleDef>
-
-
 	<ThoughtDef>
 		<defName>VSIE_BondedPetButcheredOpinion</defName>
 		<thoughtClass>VanillaSocialInteractionsExpanded.Thought_ButheredMyBondedPet</thoughtClass>
@@ -23,12 +13,6 @@
 			</li>
 		</stages>
 	</ThoughtDef>
-
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_BondedPetButchered</defName>
-		<label>bonded pet butchered</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
 
 	<ThoughtDef>
 		<defName>VSIE_ExposedCorpseOfMyFriendOpinion</defName>
@@ -45,11 +29,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_ExposedCorpseOfMyFriend</defName>
-		<label>exposed corpse of my friend</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
 
 	<ThoughtDef>
 		<defName>VSIE_IngestedHumanFlesh</defName>
@@ -65,12 +44,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_IngestedHumanFlesh</defName>
-		<label>ingested human flesh</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
-
 	<ThoughtDef>
 		<defName>VSIE_BingedFood</defName>
 		<thoughtClass>VanillaSocialInteractionsExpanded.Thought_OnePawn_Situation</thoughtClass>
@@ -85,12 +58,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_BingedFood</defName>
-		<label>binged food</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
-
 	<ThoughtDef>
 		<defName>VSIE_BingedDrug</defName>
 		<thoughtClass>VanillaSocialInteractionsExpanded.Thought_OnePawn_Situation</thoughtClass>
@@ -104,12 +71,6 @@
 			</li>
 		</stages>
 	</ThoughtDef>
-
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_BingedDrug</defName>
-		<label>binged drug</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_HideInRoom</defName>
@@ -125,12 +86,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_HideInRoom</defName>
-		<label>was hiding in their room</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
-
 	<ThoughtDef>
 		<defName>VSIE_WanderedInSaddness</defName>
 		<thoughtClass>VanillaSocialInteractionsExpanded.Thought_OnePawn_Situation</thoughtClass>
@@ -144,12 +99,6 @@
 			</li>
 		</stages>
 	</ThoughtDef>
-	
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_WanderedInSaddness</defName>
-		<label>wandered in sadness</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 
 	<ThoughtDef>
 		<defName>VSIE_WentIntoSadisticRage</defName>
@@ -165,12 +114,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_WentIntoSadisticRage</defName>
-		<label>went into sadistic rage</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
-
 	<ThoughtDef>
 		<defName>VSIE_ThrewTantrum</defName>
 		<thoughtClass>VanillaSocialInteractionsExpanded.Thought_OnePawn_Situation</thoughtClass>
@@ -185,11 +128,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_ThrewTantrum</defName>
-		<label>threw a tantrum</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_WentBerserk</defName>
@@ -205,12 +143,7 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_WentBerserk</defName>
-		<label>went berserk</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
-	
+
 	<ThoughtDef>
 		<defName>VSIE_WentOnFireStartingSpree</defName>
 		<thoughtClass>VanillaSocialInteractionsExpanded.Thought_OnePawn_Situation</thoughtClass>
@@ -225,11 +158,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_WentOnFireStartingSpree</defName>
-		<label>went on a fire starting spree</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_WentOnMurderousRage</defName>
@@ -245,11 +173,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_WentOnMurderousRage</defName>
-		<label>went on murderous rage</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_RanWild</defName>
@@ -264,12 +187,6 @@
 			</li>
 		</stages>
 	</ThoughtDef>
-
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_RanWild</defName>
-		<label>ran wild</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_InsultedMe</defName>
@@ -284,12 +201,6 @@
 			</li>
 		</stages>
 	</ThoughtDef>
-
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_InsultedMe</defName>
-		<label>insulted me</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_SlaughteredAnimalInRage</defName>
@@ -304,12 +215,6 @@
 			</li>
 		</stages>
 	</ThoughtDef>
-
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_SlaughteredAnimalInRage</defName>
-		<label>slaughtered an animal in a rage</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_RebuffedMe</defName>
@@ -325,12 +230,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_RebuffedMe</defName>
-		<label>rebuffed me</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
-
 	<ThoughtDef>
 		<defName>VSIE_InducedPrisonerToEscape</defName>
 		<thoughtClass>VanillaSocialInteractionsExpanded.Thought_OnePawn_Situation</thoughtClass>
@@ -344,12 +243,6 @@
 			</li>
 		</stages>
 	</ThoughtDef>
-
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_InducedPrisonerToEscape</defName>
-		<label>induced prisoner to escape</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_TamedThrumbo</defName>
@@ -364,12 +257,6 @@
 			</li>
 		</stages>
 	</ThoughtDef>
-
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_TamedThrumbo</defName>
-		<label>tamed a thrumbo</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_WasPreviouslyOurEnemy</defName>
@@ -384,12 +271,6 @@
 			</li>
 		</stages>
 	</ThoughtDef>
-
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_WasPreviouslyOurEnemy</defName>
-		<label>was previously our enemy</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_WasBadlyInjured</defName>
@@ -404,12 +285,6 @@
 			</li>
 		</stages>
 	</ThoughtDef>
-
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_WasBadlyInjured</defName>
-		<label>was badly injured</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_DidNotAttendWedding</defName>
@@ -425,11 +300,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_DidNotAttendWedding</defName>
-		<label>didn't attend our wedding ceremony</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_AttendedMyWedding</defName>
@@ -445,12 +315,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_AttendedMyWedding</defName>
-		<label>attended my wedding</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
-	
 	<ThoughtDef>
 		<defName>VSIE_RemovedPrisonersOrgans</defName>
 		<thoughtClass>VanillaSocialInteractionsExpanded.Thought_OnePawn_Situation</thoughtClass>
@@ -465,11 +329,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_RemovedPrisonersOrgans</defName>
-		<label>removed the prisoner's organs</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_FailedMedicalOperationAndKilled</defName>
@@ -485,11 +344,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_FailedMedicalOperationAndKilled</defName>
-		<label>failed a medical operation and killed one of us</label>
-		<taleClass>Tale_SinglePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_TamedMe</defName>
@@ -505,11 +359,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_TamedMe</defName>
-		<label>tamed me</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_ArrestedMe</defName>
@@ -525,11 +374,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_ArrestedMe</defName>
-		<label>arrested me</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_ResurrectedMe</defName>
@@ -545,11 +389,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_ResurrectedMe</defName>
-		<label>resurrected me</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_BrokeUpWithMe</defName>
@@ -565,11 +404,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_BrokeUpWithMe</defName>
-		<label>broke up with me</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
 
 	<ThoughtDef>
 		<defName>VSIE_WeHadNiceChat</defName>
@@ -585,11 +419,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_WeHadNiceChat</defName>
-		<label>we had a nice chat</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_WeHadSocialFight</defName>
@@ -605,11 +434,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_WeHadSocialFight</defName>
-		<label>we had a social fight</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
 
 	<ThoughtDef>
 		<defName>VSIE_SavedMeFromMyWounds</defName>
@@ -625,11 +449,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_SavedMeFromMyWounds</defName>
-		<label>saved me from my wounds</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_HasBeenMyFriendSinceChildhood</defName>
@@ -645,11 +464,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_HasBeenMyFriendSinceChildhood</defName>
-		<label>has been my friend since childhood</label>
-		<taleClass>Tale_DoublePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_SavedMeFromRaiders</defName>
@@ -665,11 +479,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_SavedMeFromRaiders</defName>
-		<label>saved me from the raiders</label>
-		<taleClass>VanillaSocialInteractionsExpanded.Tale_TriplePawn</taleClass>
-	</TaleDef>
 	
 	<ThoughtDef>
 		<defName>VSIE_CuredMyFriend</defName>
@@ -685,11 +494,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_CuredMyFriend</defName>
-		<label>cured my friend</label>
-		<taleClass>VanillaSocialInteractionsExpanded.Tale_TriplePawn</taleClass>
-	</TaleDef>
 
 	<ThoughtDef>
 		<defName>VSIE_StoleMyLover</defName>
@@ -705,11 +509,6 @@
 		</stages>
 	</ThoughtDef>
 
-	<TaleDef ParentName="VSIE_SocialTaleBase">
-		<defName>VSIE_StoleMyLover</defName>
-		<label>stole my lover</label>
-		<taleClass>VanillaSocialInteractionsExpanded.Tale_TriplePawn</taleClass>
-	</TaleDef>
 	
   <ThoughtDef>
     <defName>VSIE_IsRoyalty</defName>

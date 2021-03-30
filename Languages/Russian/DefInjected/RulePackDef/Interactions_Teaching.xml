@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-	<InteractionDef>
-		<defName>VSIE_Teaching</defName>
-		<label>teaching</label>
-		<workerClass>VanillaSocialInteractionsExpanded.InteractionWorker_Teaching</workerClass>
-		<symbol>Things/Mote/TeachingIcon</symbol>
-		<logRulesInitiator>
-			<rulesStrings>
-				<li>r_logentry-&gt;</li>
-			</rulesStrings>
-		</logRulesInitiator>
-	</InteractionDef>
-
 	<RulePackDef>
 		<defName>VSIE_Teaching_Shooting</defName>
     <include>
