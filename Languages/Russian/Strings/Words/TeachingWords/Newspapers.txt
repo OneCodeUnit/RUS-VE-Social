@@ -1,10 +1,10 @@
-﻿newspaper
-newspaper
-newspaper
-magazine
-magazine
-paper
-paper
-press publication
-publication
-print
+﻿газета
+газета
+газета
+журнал
+журнал
+листовка
+листовка
+издание
+выпуск
+печатное издание

@@ -1,99 +1,99 @@
-﻿prospecting
-prospectors
-mining
-miners
-digging
-minerals
-rocks
-pickaxes
-quarries
-limestone
-slate
-basalt
-granite
-marble
-sandstone
-base metals
-blast holes
-blasting charges
-mining using dynamite
-pillar mining
-grid mining
-comminution
-decline tunnels
-ore deposits
-drills
-drifts
-pickaxes
-face drilling
-first class ore
-footwall
-float
-grinders
-iron ore
-longwall mining
-metallurgy
-mining
-mine
-outcrops
-ore
-precious metals
-processing
-production
-quartz
-refining
-roof bolting
-shafts
-mineshafts
-tailings
-veins
-ore veins
-waste
-uranium mining
-plasteel mining
-steel mining
-component mining
-rock mining
-jade mining
-jade
-ruby
-sapphire
-diamonds
-obsidian
-minecraft
-waste
-strip mining
-geology
-asteroid mining
-meteors
-deep space mining
-deep drills
-locating ores
-mining prosthetics
-cave monsters
-cave-ins 
-underground sickness
-infestations
-mining techniques
-mining helmets
-mining safety
-chemfuel deposits
-helixien gas deposits
-seismic activity
-jade mining
-gold mining
-crosscut
-debris
-cave mushrooms
-undergrounders
-lighting
-tunnels
-tunnel lighting
-gravel
-natrual caves
-ancient structures
-insect defense
-geodes
-mountain formations
-underground life
-surviving cave-ins
+﻿поисковых работ
+старателей
+добычи полезных ископаемых
+шахтёров
+копания
+полезных ископаемых
+горных пород
+кирок
+карьеры в карьерах
+известняка
+шифера
+базальта
+гранита
+мрамора
+песчаника
+чёрных металлов
+взорванной породы
+взрывчатки
+взрыва зарядов
+опор в шахтах
+туннелей в шахтах
+измельчения
+сужения туннеля
+рудного месторождения
+сверла
+дрейфа
+кирки
+торцевого сверления
+руды первого сорта
+подошва
+сплава
+шлифовального станка
+железной руды
+длинный забой
+металлургии
+добычи полезных ископаемых
+шахты
+породы
+руды
+цветных металлов
+обработки
+производства
+кварца
+очистки
+анкерной крепи
+валов
+шахт
+отходов
+жил
+рудных жил
+отхода
+добычи урана
+добычи пластали
+добычи стали
+добычи компонентов
+добычи камней
+добычи нефрита
+нефрита
+рубина
+сапфира
+бриллианта
+обсидиана
+домиков из грязи
+пустой породы
+открытой добычи
+геологии
+добычи на астероидах
+метеоритов
+добычи в глубоком космосе
+глубокого сверления
+поиска руд
+шахтёрских протезов
+пещерных монстров
+обвалов
+подземной болезни
+вторжений
+шахтёрской техники
+шахтёрских шлемов
+шахтёрской ТБ
+залежей химтоплива
+залежей хеликсинового газа
+сейсмической активности
+добычи нефрита
+добычи золота
+проходов в скале
+развалин
+пещерных грибов
+подземных жителей
+освещения
+туннелей
+освещения в туннелях
+гравия
+естественных пещер
+древней опасности
+защиты от насекомых
+жеодов
+горных образований
+подземной жизни
+уцелевших под обвалами

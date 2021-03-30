@@ -1,158 +1,145 @@
-﻿childhood
-childhood fears
-childhood loves
-childhood experiences
-life
-life challenges
-life's rewards
-life memories
-life goals
-life regrets
-life stresses
-the disappointment of life
-the pointlessness of life
-the randomness of life
-hope
-maturity
-adulthood
-children
-fear
-nightmares
-success
-the morality of poverty
-the morality of wealth
-
-death
-death's inevitability
-death's release
-life after death
-dead loved ones
-absent friends
-
-charity
-philanthropism
-aiding the downtrodden
-helping the sick
-helping the poor
-
-aliens
-alien contact
-alien conspiracies
-the absence of aliens
-government conspiracies
-religious conspiracies
-
-the stars
-other planets
-this planet
-the scale of the universe
-the age of the universe
-the fate of the universe
-man's spread through the universe
-
-primitivism
-luddism
-technology
-machine intelligence
-artificial intelligence
-computer technology
-weapons technology
-
-society
-morality
-freedom
-law
-government
-rights
-history
-terror
-terrorism
-politics
-honor
-social issues
-the market
-freedom
-authoritarianism
-anarchy
-injustice
-justice
-truth
-tribalism
-ingroup preference
-
-philosophy
-reality
-culture
-culture differences
-culture shock
-human nature
-humanity
-religion
-the meaning of life
-identity
-eternity
-monism
-dualism
-epistemology
-honesty
-freedom of speech
-ethnicity
-liberalism
-the inevitability of suffering
-the nature of knowledge
-the nature of emotion
-
-fate
-the fate of mankind
-the fate of the universe
-
-art
-art movements
-artistic ambition
-human aesthetics
-artistic instincts
-art history
-
-love
-romance
-sexuality
-sexual morality
-masculinity
-femininity
-
-self-replicating machines
-generation ships
-Von Neumann probes
-
-archotechnology
-archotechs
-machine personas
-the Johnson-Tanaka drive
-the Ordo Historia
-old Earth
-rimworlds
-coreworlds
-cryptosleep
-cryptosleep tombs
-mechanoids
-cannibalism
-genetic modification
-megas and alphas
-urbworlds
-deadworlds
-steamworlds
-joywires
-
-trading
-schmoozing
-deal-making
-politics
-profiteering
-criminal justice
-corporations
-wardening
-prison management
-prisoners
-caravanning
-psychology
-ethics
+﻿детства
+детских страхов
+детской любви
+детских открытий
+жизни
+жизненных трудностей
+счастливых моментов
+воспоминаний
+жизненных целей
+сожалений
+стрессов
+разочарований в жизни
+бессмысленности жизни
+превратностей судьбы
+надежды
+совершеннолетия
+зрелости
+детей
+страха
+кошмаров
+успехов
+бедности
+богатства
+смерти
+неизбежности смерти
+смирения со смертью
+жизни после смерти
+умерших близких
+отсутствующих друзей
+благотворительности
+филантропии
+помощи угнетённым
+помощи больным
+помощи бедным
+пришельцев
+инопланетного контакта
+заговора рептилоидов
+отсутствия инопланетян
+правительственного заговора
+религиозных заговоров
+звёзд
+других планет
+этой планеты
+масштаба вселенной
+времени в масштабе вселенной
+судьбы вселенной
+расселения человека по всей вселенной
+примитивизма
+луддизма
+технологии
+машинного интеллекта
+искусственного интеллекта
+компьютерной технологии
+оружейной технологии
+общества
+морали
+свободы
+законов
+правительства
+права
+истории
+террора
+терроризма
+политики
+чести
+социальной сферы
+рынка
+свободы
+авторитаризма
+анархии
+несправедливости
+справедливости
+правды
+трайбализма
+субкультур
+философии
+реальности
+культуры
+культурных различий
+культурного шока
+человеческой природы
+человечества
+религии
+смысла жизни
+идентичности
+вечности
+монизма
+дуализма
+эпистемологии
+честности
+свободы слова
+этнической принадлежности
+либерализма
+неизбежности страдания
+природы знаний
+природы эмоций
+судьбы
+судьбы человечества
+судьбы вселенной
+искусства
+художественного движения
+авторских амбиций
+человеческой эстетики
+инстинктов художника
+истории искусства
+любви
+романтики
+сексуальности
+сексуальной морали
+мужественности
+женственности
+репликантов
+космических ковчегов
+зондов фон Неймана
+архотехнологии
+архотехнологий
+искусственных личностей
+двигателя Джонсона-Танака
+Ордо Хисториес
+старой Земли
+окраинных миров
+столичных миров
+криптосна
+гробниц криптосна
+механоидов
+каннибализма
+генетических модификаций
+генетически модифицированных животных
+городских миров
+мёртвых миров
+индустриальных миров
+чипов счастья
+торговли
+болтовни
+заключению сделок
+политики
+спекуляций
+правосудия
+корпораций
+стражей
+управления тюрьмами
+заключенных
+караванов
+психологии
+этики

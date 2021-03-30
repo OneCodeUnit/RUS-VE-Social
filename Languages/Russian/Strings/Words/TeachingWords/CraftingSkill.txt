@@ -1,62 +1,62 @@
-﻿smithing
-blacksmiths
-craftsmen
-craftsmanship
-artisans
-tradespeople
-alloys
-tempering
-carving
-metal folding
-metal rolling
-smithies
-forging
-assembling
-tailoring
-manufacturing
-mechanics
-armorsmiths
-weaving
-sewing
-metal casting
-barrel-making
-blast cleaning
-furnce maintenance
-coining
-cross-forging
-wood working
-plank making
-hammering
-bellows
-glass-blowing
-thermal stress
-milling
-bandsaws
-polishing
-bespoke tailoring
-knitting
-loom-working
-backstitching
-varnishing
-crocheting
-spools
-needle threading
-quilting
-gunsmithing
-shoe shining
-leatherworking
-hide tanning
-lye making
-brick shaping
-stone smoothing
-pattern forging
-riveting
-metal stamping
-patching
-modern clothing
-practical clothing
-leather toughening
-hide curing
-clay throwing
-coil pottery
-tool care
+﻿кузнечного дела
+кузнеца
+ремесленника
+ремесла
+народных умельцев
+купцов
+сплавов
+закалки
+резьбы
+сгибания листов
+проката листов
+кузниц
+подделок
+сборки
+пошива
+производства
+механики
+оружейников
+ткачества
+шитья
+литья металла
+изготовления бочек
+пескоструйной очистки
+ремонта мебели
+чеканки монет
+поперечной ковки
+деревообработки
+изготовления досок
+ковки
+кузнечных мехов
+стеклодувного производства
+термической обработки
+фрезерования
+ленточной пилы
+полирования
+пошива одежды на заказ
+вязания
+работы ткацкого станка
+фиксации
+лакирования
+вязания
+катушек
+продевания нитки в иголку
+стежков
+оружейного дела
+чистки обуви
+кожевенного дела
+дубления
+изготовления щёлочи
+формирования кирпичей
+обработки камня
+ковки узоров
+заклёпывания
+металлической штамповки
+проставления заплаток
+современной одежды
+практичной одежды
+укрепления кожи
+мозолей
+сбора глины
+гончарного круга
+ухода за инструментами

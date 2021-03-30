@@ -1,66 +1,66 @@
-﻿surgery
-care
-medicine
-drugs
-patient care
-pain management
-chemical addiction
-medical hygeine
-dentistry
-prosthetic limbs
-bionic limbs
-anesthesia
-phlebotomy
-diagnosing
-biopsies
-blood coagulation
-tourniquets
-epidemiology
-virology
-fibrosis
-hypoxia
-morbidity
-lacerations
-treating hypothermia
-treating heatstroke
-scalpals
-anatomy
-carcinomas
-viruses
-immunology
-bones
-reproductive organs
-glands
-amputation
-organ harvesting
-healer mech serum
-forbidden surgery
-aging
-lovin'
-triage
-antidotes
-battlefield care
-disaster response
-sterilization 
-emergency care
-punctures
-bandaging
-survival medicines
-optometry
-treatment
-diseases
-hospitals
-hospital beds
-doctors
-sedatives
-recreational drugs
-pain tolerance
-biomechatronics
-electrocardiogram
-health conditions
-cuts and slices
-sanitation
-treating addictions
-experimentation
-blood pressure
-heart attacks
+﻿хирургии
+заботы
+медицины
+наркотиков
+ухода за больным
+обезболивания
+химической зависимость
+медицинских мероприятий
+лечения зубов
+протеза
+бионических конечностей
+анестезии
+флеботомии
+диагностики
+биопсии
+свёртывания крови
+жгута
+эпидемиологии
+вирусологии
+фиброза
+гипоксии
+заболеваемости
+порезов
+лечения переохлаждения
+лечения теплового удара
+скальпеля
+анатомии
+карциномы
+вирусов
+иммунологии
+костей
+половых органов
+гланд
+ампутации
+извлечения органов
+лечащих наноботов
+запрещённых операций
+старения
+любви
+сортировки
+противоядий
+полевых медиков
+реагирования на бедствия
+стерилизации
+первой помощи
+медицинских карт
+перевязок
+полевого лечения
+оптометрии
+лечения
+болезней
+больниц
+больничных коек
+врачей
+успокоительных
+рекреационных наркотиков
+терпения боли
+биомехатроники
+электрокардиограммы
+состояния здоровья
+порезов и царапин
+санитарии
+лечения зависимостей
+экспериментирования
+кровяного давления
+сердечных приступов

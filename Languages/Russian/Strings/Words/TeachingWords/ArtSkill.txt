@@ -1,111 +1,111 @@
-﻿sculptures
-paintings
-reliefs
-plinths
-obelisks
-pottery
-paints
-abstracts
-expressionism
-action painting
-aesthetic
-architecture
-assemblage
-avant-garde
-baroque
-bauhaus
-calligraphy
-canon
-canvas
-censorship
-ceramics
-cityscape
-collage
-color
-column
-cubism
-commission
-composition
-concept
-conceptual art
-constructivism
-content
-contour
-contrast
-culture
-Dada
-decorative arts
-De Stijl
-Der Blaue Reiter
-drawing
-double exposure
-embroidery
-enlargement
-exposure
-facade
-Fauvism
-figure
-film
-font
-form
-framing
-frottage
-geometry
-graphic design
-gouache
-grotesque
-hieroglyphics
-iconography
-icons
-illusion
-image
-imagery
-impressionism
-improvisation
-industrial design
-installation
-interior design
-international style
-landscape
-lines
-mandala
-manifesto
-mass production
-material
-mediums
-minimalism
-mixed media
-monochrome
-montage
-murals
-muse
-narrative
-naturalism
-oil paints
-organic shapes
-ornamentations
-painters
-palette
-panels
-panoramas
-pastels
-patterns
-perspective
-photography
-pop art
-popular culture
-portrait
-pose
-print
-propaganda
-renaissance
-relics
-replicas
-Rococo
-satire
-scale
-shape
-sketches
-still life
-style
-monuments
+﻿скульптур
+картин
+рельефов
+постаментов
+обелисков
+керамики
+краски
+абстракции
+экспрессионизма
+живописи действия
+эстетики
+архитектуры
+собрания
+стиля авангарда
+вычурного стиля
+баухауза
+каллиграфии
+канона
+холста
+цензуры
+керамики
+городского пейзажа
+коллажа
+цвета
+колонн
+кубизма
+комиссий
+композиций
+концепций
+концептуального искусства
+конструктивизма
+содержания
+контура
+контраста
+культуры
+Дадаизма
+декоративного искусства
+Де Стейла
+Синего всадника
+рисунка
+двойной экспозиции
+вышивки
+укрупнения
+воздействия
+фасада
+Фовизма
+фигуры
+фильма
+шрифта
+формы
+обрамления
+Фроттажа
+геометрии
+графического дизайна
+гуаши
+гротескного стиля
+иероглифов
+иконописи
+икон
+иллюзий
+изображений
+образности
+импрессионизма
+импровизации
+промышленного образца
+инсталляций
+дизайна интерьера
+интернационального стиль
+пейзажа
+линий
+мандалы
+манифеста
+массового производства
+материала
+средств
+минимализма
+мультимедиа
+монохромного стиля
+монтажа
+фресок
+муз
+повествовательного стиля
+натурализма
+масляных красок
+органической формы
+орнаментов
+художников
+палитр
+панелей
+панорам
+пастельных тонов
+структур
+перспективы
+фотографии
+поп-арта
+популярной культуры
+портрета
+позы
+печати
+пропаганды
+возрождения
+реликвий
+реплик
+Рококо
+сатиры
+масштаба
+формы
+эскизов
+натюрморта
+стиля
+памятников
