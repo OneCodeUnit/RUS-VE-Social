@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: vent -->
-  <VSIE_Vent.label>разговор</VSIE_Vent.label>
+  <VSIE_Vent.label>разговор по душам</VSIE_Vent.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
@@ -20,8 +20,9 @@
     <li>commentedabout->told a joke about</li>
   -->
   <VSIE_Vent.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] и [RECIPIENT_nameDef] [talkedabout_plural] [TalkTopicLight].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] с [RECIPIENT_nameDef] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] и [RECIPIENT_nameDef] [theme] [talkedabout_plural] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [theme] [talkedabout] с [RECIPIENT_nameDef] [TalkTopicLight].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] для [RECIPIENT_nameDef].</li>
     <li>talkedabout_plural(p=4)->болтают</li>
     <li>talkedabout_plural->беседуют</li>
     <li>talkedabout_plural->говорят</li>
@@ -34,5 +35,15 @@
     <li>talkedabout->треплется</li>
     <li>talkedabout->шутит</li>
     <li>talkedabout->обменивается парой слов</li>
+		<li>commentedabout->говорит кое-что</li>
+		<li>commentedabout->произносит всего лишь одно слово</li>
+		<li>commentedabout->даёт краткий комментарий</li>
+		<li>commentedabout->высказывает мнение</li>
+		<li>commentedabout->рассказывает анекдот</li>
+		<li>theme->откровенно</li>
+		<li>theme->заговорчески</li>
+		<li>theme->с нескрываемым волнением</li>
+		<li>theme->с надеждой</li>
+		<li>theme-></li>
   </VSIE_Vent.logRulesInitiator.rulesStrings>
 </LanguageData>

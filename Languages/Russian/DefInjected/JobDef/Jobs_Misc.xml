@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: venting to TargetA. -->
-  <VSIE_VentToFriend.reportString>обращается к TargetA.</VSIE_VentToFriend.reportString>
+  <VSIE_VentToFriend.reportString>делится переживаниями с TargetA.</VSIE_VentToFriend.reportString>
   
   <!-- EN: hearing venting from TargetA. -->
   <VSIE_StandAndHearVenting.reportString>выслушивает TargetA.</VSIE_StandAndHearVenting.reportString>
