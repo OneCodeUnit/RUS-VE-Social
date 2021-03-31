@@ -1,158 +1,66 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: work frenzy -->
+  <Frenzy_Work.label>рабочий запал</Frenzy_Work.label>
+  <!-- EN: \n\n[PAWN_pronoun] would like to do some work. -->
+  <Frenzy_Work.beginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы выполнить какую-нибудь работу.</Frenzy_Work.beginLetterContinue>
 
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>Frenzy_Work</defName>
-    <label>work frenzy</label>
-	<inspirationDef>Frenzy_Work</inspirationDef>
-	<beginLetterContinue>\n\n[PAWN_pronoun] would like to do some work.</beginLetterContinue>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
+  <!-- EN: go frenzy -->
+  <Frenzy_Go.label>прилив сил</Frenzy_Go.label>
+  <!-- EN: \n\n[PAWN_pronoun] would like to join a caravan and venture into the world. -->
+  <Frenzy_Go.beginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы присоединиться к каравану и отправиться в путешествие.</Frenzy_Go.beginLetterContinue>
 
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>Frenzy_Go</defName>
-    <label>go frenzy</label>
-	<inspirationDef>Frenzy_Go</inspirationDef>
-	<beginLetterContinue>\n\n[PAWN_pronoun] would like to join a caravan and venture into the world.</beginLetterContinue>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
+  <!-- EN: shoot frenzy -->
+  <Frenzy_Shoot.label>стрелковый азарт</Frenzy_Shoot.label>
+  <!-- EN: \n\n[PAWN_pronoun] would like to go on a hunt. -->
+  <Frenzy_Shoot.beginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы сходить на охоту.</Frenzy_Shoot.beginLetterContinue>
 
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>Frenzy_Shoot</defName>
-    <label>shoot frenzy</label>
-	<inspirationDef>Frenzy_Shoot</inspirationDef>
-	<beginLetterContinue>\n\n[PAWN_pronoun] would like to go on a hunt.</beginLetterContinue>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
+  <!-- EN: inspired trade -->
+  <Inspired_Trade.label>торговое чутьё</Inspired_Trade.label>
+  <!-- EN: \n\n[PAWN_pronoun] would like to close a trade. -->
+  <Inspired_Trade.beginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы заключить сделку.</Inspired_Trade.beginLetterContinue>
 
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>Inspired_Trade</defName>
-    <label>inspired trade</label>
-	<inspirationDef>Inspired_Trade</inspirationDef>
-	<beginLetterContinue>\n\n[PAWN_pronoun] would like to close a trade.</beginLetterContinue>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
+  <!-- EN: inspired recruitment -->
+  <Inspired_Recruitment.label>красноречие</Inspired_Recruitment.label>
+  <!-- EN: \n\n[PAWN_pronoun] would like to recruit a prisoner. -->
+  <Inspired_Recruitment.beginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы завербовать пленника.</Inspired_Recruitment.beginLetterContinue>
 
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>Inspired_Recruitment</defName>
-    <label>inspired recruitment</label>
-	<inspirationDef>Inspired_Recruitment</inspirationDef>
-	<beginLetterContinue>\n\n[PAWN_pronoun] would like to recruit a prisoner.</beginLetterContinue>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
+  <!-- EN: inspired taming -->
+  <Inspired_Taming.label>любовь к животным</Inspired_Taming.label>
+  <!-- EN: \n\n[PAWN_pronoun] would like to try and tame an animal. -->
+  <Inspired_Taming.beginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы попробовать приручить животное.</Inspired_Taming.beginLetterContinue>
 
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>Inspired_Taming</defName>
-    <label>inspired taming</label>
-	<inspirationDef>Inspired_Taming</inspirationDef>
-	<beginLetterContinue>\n\n[PAWN_pronoun] would like to try and tame an animal.</beginLetterContinue>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
+  <!-- EN: inspired surgery -->
+  <Inspired_Surgery.label>чутьё хирурга</Inspired_Surgery.label>
+  <!-- EN: \n\n[PAWN_pronoun] would like to perform a surgery. -->
+  <Inspired_Surgery.beginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы провести операцию.</Inspired_Surgery.beginLetterContinue>
 
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>Inspired_Surgery</defName>
-    <label>inspired surgery</label>
-	<inspirationDef>Inspired_Surgery</inspirationDef>
-	<beginLetterContinue>\n\n[PAWN_pronoun] would like to perform a surgery.</beginLetterContinue>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
+  <!-- EN: inspired creativity -->
+  <Inspired_Creativity.label>творческий подъём</Inspired_Creativity.label>
+  <!-- EN: \n\n[PAWN_pronoun] would like to create a masterwork or legendary item. -->
+  <Inspired_Creativity.beginLetterContinue>\n\nВ течении этих дней {PAWN_pronoun} {PAWN_gender ? хотел : хотела} бы создать шедевр или даже что-то легендарное.</Inspired_Creativity.beginLetterContinue>
 
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>Inspired_Creativity</defName>
-    <label>inspired creativity</label>
-	<inspirationDef>Inspired_Creativity</inspirationDef>
-	<beginLetterContinue>\n\n[PAWN_pronoun] would like to create a masterwork or legendary item.</beginLetterContinue>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
-  
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>VSIE_Inspired_Planting</defName>
-    <label>inspired planting</label>
-	<inspirationDef>VSIE_Inspired_Planting</inspirationDef>
-	<workCount>50</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
-  
-  
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>VSIE_Party_Frenzy</defName>
-    <label>party frenzy</label>
-	<inspirationDef>VSIE_Party_Frenzy</inspirationDef>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
-  
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>VSIE_Inspired_Research</defName>
-    <label>inspired research</label>
-	<inspirationDef>VSIE_Inspired_Research</inspirationDef>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
-  
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>VSIE_Inspired_Mining</defName>
-    <label>inspired mining</label>
-	<inspirationDef>VSIE_Inspired_Mining</inspirationDef>
-	<workCount>50</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
+  <!-- EN: inspired planting -->
+  <VSIE_Inspired_Planting.label>любовь к земле</VSIE_Inspired_Planting.label>
 
-  
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>VSIE_Learning_Frenzy</defName>
-    <label>learning frenzy</label>
-	<inspirationDef>VSIE_Learning_Frenzy</inspirationDef>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
-  
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>VSIE_Inspired_Cooking</defName>
-    <label>inspired cooking</label>
-	<inspirationDef>VSIE_Inspired_Cooking</inspirationDef>
-	<workCount>50</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
-  
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>VSIE_Flirting_Frenzy</defName>
-    <label>flirting frenzy</label>
-	<inspirationDef>VSIE_Flirting_Frenzy</inspirationDef>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
-  
-  <VanillaSocialInteractionsExpanded.AspirationDef>
-    <defName>VSIE_Melee_Frenzy</defName>
-    <label>Melee frenzy</label>
-	<inspirationDef>VSIE_Melee_Frenzy</inspirationDef>
-	<workCount>1</workCount>
-	<thoughtDefSuccess>VSIE_InspirationSatisfied</thoughtDefSuccess>
-	<thoughtDefFail>VSIE_InspirationNotSatisfied</thoughtDefFail>
-  </VanillaSocialInteractionsExpanded.AspirationDef>
-  
-</Defs>
+  <!-- EN: party frenzy -->
+  <VSIE_Party_Frenzy.label>пора тусоваться</VSIE_Party_Frenzy.label>
+
+  <!-- EN: inspired research -->
+  <VSIE_Inspired_Research.label>с головой в науку</VSIE_Inspired_Research.label>
+
+  <!-- EN: inspired mining -->
+  <VSIE_Inspired_Mining.label>стахановский порыв</VSIE_Inspired_Mining.label>
+
+  <!-- EN: learning frenzy -->
+  <VSIE_Learning_Frenzy.label>горячий интерес</VSIE_Learning_Frenzy.label>
+
+  <!-- EN: inspired cooking -->
+  <VSIE_Inspired_Cooking.label>внутренний кулинар</VSIE_Inspired_Cooking.label>
+
+  <!-- EN: flirting frenzy -->
+  <VSIE_Flirting_Frenzy.label>казанова</VSIE_Flirting_Frenzy.label>
+
+  <!-- EN: Melee frenzy -->
+  <VSIE_Melee_Frenzy.label>боевой запал</VSIE_Melee_Frenzy.label>
+</LanguageData>

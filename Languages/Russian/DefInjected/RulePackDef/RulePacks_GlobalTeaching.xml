@@ -1,10 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
-
-  <RulePackDef>
-    <defName>VSIE_TeachingUtility</defName>
-    <rulePack>
-      <rulesFiles>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
 		<li>ShootingTopic->Words/TeachingWords/ShootingSkill</li>
 		<li>AnimalsTopic->Words/TeachingWords/AnimalsSkill</li>
 		<li>ArtTopic->Words/TeachingWords/ArtSkill</li>
@@ -17,7 +13,19 @@
 		<li>MeleeTopic->Words/TeachingWords/MeleeSkill</li>
 		<li>MiningTopic->Words/TeachingWords/MiningSkill</li>
 		<li>SocialTopic->Words/TeachingWords/SocialSkill</li>
-      </rulesFiles>
-	   </rulePack>
-	  </RulePackDef>
-</Defs>
+  -->
+  <VSIE_TeachingUtility.rulePack.rulesStrings>
+		<li>ShootingTopic->Words/ShootingSkill</li>
+		<li>AnimalsTopic->Words/AnimalsSkill</li>
+		<li>ArtTopic->Words/ArtSkill</li>
+		<li>ConstructionTopic->Words/ConstructionSkill</li>
+		<li>CookingTopic->Words/CookingSkill</li>
+		<li>CraftingTopic->Words/CraftingSkill</li>
+		<li>GrowingTopic->Words/GrowingSkill</li>
+		<li>IntellectualTopic->Words/IntellectualSkill</li>
+		<li>MedicalTopic->Words/MedicalSkill</li>
+		<li>MeleeTopic->Words/MeleeSkill</li>
+		<li>MiningTopic->Words/MiningSkill</li>
+		<li>SocialTopic->Words/SocialSkill</li>
+  </VSIE_TeachingUtility.rulePack.rulesStrings>
+</LanguageData>
