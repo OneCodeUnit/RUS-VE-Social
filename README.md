@@ -1,6 +1,6 @@
 ﻿##  Перевод мода [Vanilla Social Interactions Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2439736083)
 
-###  Переведено 30 из 35 файлов
+###  Все файлы переведены
 
 Подробности и координация на [дискорд сервере](https://discord.gg/Xmbwmgh)
 
