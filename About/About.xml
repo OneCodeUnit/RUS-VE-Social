@@ -13,11 +13,8 @@
 		</li>
 	</modDependencies>
 	<packageId>RU.VanillaSocialInteractionsExpanded</packageId>
-	<description>Русский язык для Vanilla Social Interactions Expanded.</description>
+	<description>Перевод на русский язык мода Vanilla Social Interactions Expanded.</description>
 	<loadAfter>
-		<li>Ludeon.RimWorld</li>
-		<li>Ludeon.RimWorld.Royalty</li>
-		<li>brrainz.harmony</li>
     <li>VanillaExpanded.VanillaSocialInteractionsExpanded</li>
 	</loadAfter>
 </ModMetaData>
