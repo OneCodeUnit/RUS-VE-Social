@@ -49,6 +49,8 @@
 
   <!-- EN: Enable memories -->
   <VSIE.EnableMemories>Включить воспоминания</VSIE.EnableMemories>
+  <!-- EN: Enable inspirations -->
+  <VSIE.EnableInspirations>Включить вдохновения</VSIE.EnableInspirations>
   <!-- EN: Enable aspirations -->
   <VSIE.EnableAspirations>Включить стремления</VSIE.EnableAspirations>
   <!-- EN: Enable obtaining new traits -->
